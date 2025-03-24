@@ -1,0 +1,14 @@
+{
+  "fact_style": "Informative, contextual, and focused on historical significance",
+  "focus": "How the artwork connects to historical events",
+  "n_facts": 3,
+  "narrative_style": "A guided journey through time where players become historians piecing together the past",
+  "clue_style": "Time-traveling hints, e.g., 'Find the painting that captures the moment before a revolution...'",
+  "question_style": "History-based questions testing knowledge of the events depicted in art",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "History lovers and students",
+  "difficulty": "Medium",
+  "intention": "Connect artworks to real historical moments",
+  "general_description": "A time-travel adventure where players uncover the historical narratives hidden in art."
+}

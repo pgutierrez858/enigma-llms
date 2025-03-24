@@ -1,0 +1,14 @@
+{
+  "fact_style": "Creative, fantasy-driven storytelling",
+  "focus": "Imagining the world inside the artwork",
+  "n_facts": 3,
+  "narrative_style": "A magical journey where players step into fantasy realms hidden within paintings",
+  "clue_style": "Whimsical hints, e.g., 'Find the portal to another world where creatures roam...'",
+  "question_style": "Imaginative questions encouraging players to think about the stories within the artwork",
+  "max_narrative_length": 6,
+  "answers_per_question": 4,
+  "target_audience": "Fantasy lovers and creative thinkers",
+  "difficulty": "Easy",
+  "intention": "Encourage creative engagement with art",
+  "general_description": "A fantasy quest where paintings become portals to magical worlds waiting to be explored."
+}

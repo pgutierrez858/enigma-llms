@@ -1,0 +1,14 @@
+{
+  "fact_style": "Fast-paced and engaging",
+  "focus": "Key artistic techniques and painterly styles",
+  "n_facts": 1,
+  "narrative_style": "A competitive challenge where players race to identify artists and styles",
+  "clue_style": "Rapid-fire hints, e.g., 'Spot the brushstroke style that changed the art world...'",
+  "question_style": "Multiple-choice questions testing art technique knowledge",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "Competitive players and art students",
+  "difficulty": "Medium",
+  "intention": "Make learning about art styles fun and interactive",
+  "general_description": "A fast-paced art trivia challenge where players compete to identify styles and techniques."
+}

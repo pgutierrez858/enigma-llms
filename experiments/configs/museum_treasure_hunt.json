@@ -1,0 +1,14 @@
+{
+  "fact_style": "Factual, engaging, and concise",
+  "focus": "Exploring hidden details and unique stories behind each artwork",
+  "n_facts": 3,
+  "narrative_style": "Treasure hunt, guiding players through different artworks as if uncovering lost treasures",
+  "clue_style": "Simple yet intriguing hints, such as 'Find the painting that depicts a famous battle...'",
+  "question_style": "Focused on testing observation skills and general knowledge about the artworks",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "Museum visitors of all ages",
+  "difficulty": "Medium",
+  "intention": "Encourage exploration of the museum in a fun and engaging way",
+  "general_description": "A museum-wide treasure hunt where visitors follow clues to discover hidden gems in the museum."
+}

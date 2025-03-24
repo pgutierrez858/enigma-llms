@@ -1,0 +1,14 @@
+{
+  "fact_style": "Immersive and historically rich",
+  "focus": "Exploring different historical periods through the artworks",
+  "n_facts": 3,
+  "narrative_style": "A time-traveling journey where players visit different eras through paintings",
+  "clue_style": "Era-based hints, e.g., 'Find the artwork that takes you to the Renaissance...'",
+  "question_style": "Questions testing knowledge of historical periods and their artistic movements",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "History buffs and sci-fi fans",
+  "difficulty": "Medium",
+  "intention": "Make history come alive through art, showing its evolution over time",
+  "general_description": "A time-traveling adventure where players step into different historical eras through famous artworks, solving puzzles and learning about past civilizations."
+}

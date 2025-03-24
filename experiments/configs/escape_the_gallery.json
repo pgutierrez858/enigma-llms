@@ -1,0 +1,14 @@
+{
+  "fact_style": "Suspenseful and engaging",
+  "focus": "Solving puzzles and escaping from a virtual gallery",
+  "n_facts": 3,
+  "narrative_style": "An escape-room-style challenge where players must solve clues to 'break free'",
+  "clue_style": "Puzzle-based hints, e.g., 'Find the key hidden in a Renaissance painting...'",
+  "question_style": "Riddles testing both art knowledge and logical reasoning",
+  "max_narrative_length": 6,
+  "answers_per_question": 4,
+  "target_audience": "Escape room enthusiasts and puzzle solvers",
+  "difficulty": "Hard",
+  "intention": "Create an immersive and interactive challenge",
+  "general_description": "An escape-room-style game where players must use art knowledge to unlock their way out."
+}

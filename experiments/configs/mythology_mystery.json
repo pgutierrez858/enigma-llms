@@ -1,0 +1,14 @@
+{
+  "fact_style": "Dramatic and engaging, inspired by mythological storytelling",
+  "focus": "Myths and legends behind classical artworks",
+  "n_facts": 3,
+  "narrative_style": "A mysterious quest where players act as seekers of lost mythological knowledge",
+  "clue_style": "Riddles based on myths, e.g., 'Seek the goddess who turned a weaver into a spider...'",
+  "question_style": "Questions exploring the accuracy of myths in art",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "Mythology and history enthusiasts",
+  "difficulty": "Hard",
+  "intention": "Provide a deep dive into mythology through artwork",
+  "general_description": "A mythology-based adventure where players uncover the legendary stories hidden in paintings and sculptures."
+}

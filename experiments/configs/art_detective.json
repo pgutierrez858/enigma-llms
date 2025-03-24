@@ -1,0 +1,14 @@
+{
+  "fact_style": "Mysterious and investigative",
+  "focus": "Hidden details, secrets, and the artistic techniques used in paintings",
+  "n_facts": 3,
+  "narrative_style": "Detective-style investigation where players follow clues to solve an art mystery",
+  "clue_style": "Cryptic hints resembling a case file, e.g., 'A hidden dagger in this artwork tells a story of betrayal...'",
+  "question_style": "Focused on unraveling the mysteries hidden in the details of each piece",
+  "max_narrative_length": 6,
+  "answers_per_question": 4,
+  "target_audience": "Aspiring detectives and puzzle lovers",
+  "difficulty": "Hard",
+  "intention": "Turn museum exploration into a thrilling investigation",
+  "general_description": "A detective-themed game where players analyze clues in artworks to solve historical mysteries."
+}

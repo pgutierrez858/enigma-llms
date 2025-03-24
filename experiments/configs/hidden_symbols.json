@@ -1,0 +1,14 @@
+{
+  "fact_style": "Symbolic and thought-provoking",
+  "focus": "Hidden messages and symbols in artworks",
+  "n_facts": 3,
+  "narrative_style": "A code-breaking adventure revealing the true meanings behind artistic symbols",
+  "clue_style": "Symbolic hints, e.g., 'A skull in this painting warns of life's impermanence...'",
+  "question_style": "Focused on interpreting visual symbols in historical context",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "Symbolism and mystery enthusiasts",
+  "difficulty": "Hard",
+  "intention": "Decode artistic messages hidden in artworks",
+  "general_description": "A game where players uncover the secret meanings and messages hidden in art."
+}

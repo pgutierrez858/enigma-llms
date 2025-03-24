@@ -1,0 +1,14 @@
+{
+  "fact_style": "Fun, simple, and engaging for all ages",
+  "focus": "Curious and exciting details about artworks that spark interest in kids",
+  "n_facts": 3,
+  "narrative_style": "An interactive family adventure where parents and children explore the museum together",
+  "clue_style": "Kid-friendly hints, e.g., 'Find the painting with a hidden animal...'",
+  "question_style": "Simple and fun multiple-choice questions that encourage family discussions",
+  "max_narrative_length": 5,
+  "answers_per_question": 4,
+  "target_audience": "Families with children aged 8-12",
+  "difficulty": "Easy",
+  "intention": "Create a fun and educational experience for families visiting the museum",
+  "general_description": "A lighthearted and interactive museum tour where families work together to solve fun challenges and discover exciting stories behind artworks."
+}
